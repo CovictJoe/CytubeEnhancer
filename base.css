@@ -1576,7 +1576,7 @@ strong.username {
     font-size: 1.2rem;
     line-height: 1.2;
     font-weight: 700;
-    color: rgba(255, 255, 255, 0.55);
+/*    color: rgba(255, 255, 255, 0.55); */
     cursor: cell;
     padding-top: 0px;
     letter-spacing: 1.5px;
