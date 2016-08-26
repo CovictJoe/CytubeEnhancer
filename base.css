@@ -16,8 +16,8 @@
 }
 body {
     font-size: 1.3em;
-    font-family: 'Montserrat', sans-serif;
-    color: rgb(238,238,238);
+ /*   font-family: 'Montserrat', sans-serif; */
+/*    color: rgb(238,238,238); */
     background-color: rgb(28,31,37);
     text-align: justify;
 }
@@ -1572,14 +1572,14 @@ img.chat-avatar.chat-avatar_small:hover:after {
 }
 strong.username {
     word-wrap: break-word;
-    display: block;
-    font-size: 1.2rem;
+/*    display: block; */
+    font-size: 1.6rem;
     line-height: 1.2;
     font-weight: 700;
 /*    color: rgba(255, 255, 255, 0.55); */
     cursor: cell;
     padding-top: 0px;
-    letter-spacing: 1.5px;
+/*    letter-spacing: 1.5px; */
 }
 	.ch {
 	float: left;
